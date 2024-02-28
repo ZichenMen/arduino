@@ -1,5 +1,5 @@
 # arduino
-Build circuits using both combinational and sequential digital logic elements.
+Projects of this repo involve building circuits using both combinational and sequential digital logic elements.
 ## What did I use?
 - Arduino Uno R3 Project
 - Arduino IDE

@@ -11,7 +11,7 @@ Projects of this repo involve building circuits using both combinational and seq
 - LCD 1602
 - Membrane Switch Module
 - RGB LED
-## An endless runner
+## Endless runner
 Using the LCD1602 display, create a game where the player jumps over randomly generated blocks and avoids jumping when blocks are overhead. Use the button to read player jump input.
 
 ## Plant Monitor
